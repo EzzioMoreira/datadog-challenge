@@ -1,6 +1,6 @@
 # Datadog Challenge
 
-Para iniciar o projeto, clone o repositório e execute o ```docker-compose up -d```. 
+Para iniciar o projeto, clone o repositório e execute o comando ```docker-compose up -d```. 
 
 > Dica, o argumento do docker compose `--force-recreate --build` forçar o build da imagem docker: 
 
